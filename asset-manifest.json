@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dishes-form/static/css/main.93a0497a.css",
+    "main.js": "/Dishes-form/static/js/main.270069d0.js",
+    "index.html": "/Dishes-form/index.html",
+    "main.93a0497a.css.map": "/Dishes-form/static/css/main.93a0497a.css.map",
+    "main.270069d0.js.map": "/Dishes-form/static/js/main.270069d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.270069d0.js"
+  ]
+}
