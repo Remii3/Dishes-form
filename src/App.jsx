@@ -15,7 +15,7 @@ function App() {
     setFetchResponse(elTouched);
   };
 
-  const orderDishesSubmitHandler = (values, dispatchFunc, props) => {
+  const orderDishesSubmitHandler = async (values, dispatchFunc, props) => {
     let {
       name,
       type,
